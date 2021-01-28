@@ -1,5 +1,5 @@
 {
-    "name": "Marchccc/flarum-ext-auth-wechat",
+    "name": "marchccc/flarum-ext-auth-wechat",
     "description": "Login using Wechat, extends FoF/Oauth",
     "keywords": [
       "flarum",
